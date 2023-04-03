@@ -15,4 +15,6 @@ Autoencoders have several applications in deep learning, including:
 4) Denoising: Autoencoders can be used to remove noise or other unwanted features from data, by training the model to reconstruct the original input from a noisy or distorted version.
 
 Overall, autoencoders are a powerful tool in deep learning that can be used for a wide range of tasks, from data compression to anomaly detection and beyond.
-![Screenshot 2023-04-01 010452](https://user-images.githubusercontent.com/82443281/229575576-901dfd0b-41b6-4d14-86c9-75341d406b56.png)
+
+
+![627d121bd4fd200d73814c11_60bcd0b7b750bae1a953d61d_autoencoder](https://user-images.githubusercontent.com/82443281/229575851-56419135-de6b-40b7-bba3-68f53d477a0b.png)
